@@ -1,0 +1,9 @@
+.vs
+.vscode
+*/.ipynb_checkpoints
+*.tsv
+*.parquet
+Lectures/*
+*/__pycache__/*
+*cifar*
+*.tar.gz
